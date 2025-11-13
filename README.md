@@ -1,5 +1,7 @@
 # miEPG   v3.1
 
+Bifurcación de Davidmuma, agradecido por su trabajo.
+
 El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre, el logo y el horario de cada canal
 
 El script se ejecuta todos los días a las 13:30 (puedes modificar la hora en el cron)
@@ -13,7 +15,7 @@ Si se encuentran canales con el mismo nombre en las distintas EPGs, solo se aña
 
 Los nombres de los canales tienen que ir separados por comas (sin espacios), el primer campo es el nombre del canal de la EPG de origen, el segundo campo es el nuevo nombre que le quieres dar al canal (por ejemplo el de tu lista), el tercer campo es la url del logo (déjalo en blanco si quieres mantener el logo de la EPG de origen), y el cuarto campo es el valor para modificar la hora + o - (déjalo en blanco si no necesitas modificar la hora)
 
-· Ejemplo: NombreEPG,NombreLISTA,hffp://raw.githubusercontent.com/Images/logo_dobleM.png,+2
+· Ejemplo: NombreEPG,NombreLISTA,http://raw.githubusercontent.com/Images/logo_dobleM.png,+2
 
 ***
 Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres
