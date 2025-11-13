@@ -32,7 +32,7 @@ Canal Málaga,Canal Málaga
 101Malaga.TV,101Malaga.TV
 PTV Málaga,PTV Málaga
 7TV Málaga,7TV Málaga
-7TV.AndalucÃ­a.es,7TV.AndalucÃ­a.es
+7TV,7TV
 Distrito TV,Distrito TV
 El Toro TV,El Toro TV
 TVE_INTER.TV,TVE_INTER.TV
