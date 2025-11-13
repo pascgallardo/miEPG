@@ -1,7 +1,291 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-Eleven Sports 1,Eleven Sports 1 Polonia,+2
-Eleven Sports 2,Eleven Sports 2 Polonia,+2
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
-Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
+La 1 HD,La 1 HD
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+Canal Sur HD,Canal Sur HD
+Canal Sur Andalucía,Canal Sur Andalucía
+Neox,Neox
+Nova,Nova
+Atreseries,Atreseries
+Mega,Mega
+Ten,Ten
+Factoría de Ficción,Factoría de Ficción
+Divinity,Divinity
+Energy,Energy
+Be Mad,Be Mad
+Paramount Network,Paramount Network
+Veo7,Veo7
+BOM Cine,BOM Cine
+Squirrel TV,Squirrel TV
+TR3CE,TR3CE
+24 Horas,24 Horas
+Teledeporte,Teledeporte
+Real Madrid TV,Real Madrid TV
+Clan,Clan
+Kidz,Kidz
+Boing,Boing
+Nickelodeon HD,Nickelodeon HD
+Andalucía TV,Andalucía TV
+Canal Málaga,Canal Málaga
+101Malaga.TV,101Malaga.TV
+PTV Málaga,PTV Málaga
+7TV Málaga,7TV Málaga
+7TV.AndalucÃ­a.es,7TV.AndalucÃ­a.es
+Distrito TV,Distrito TV
+El Toro TV,El Toro TV
+TVE_INTER.TV,TVE_INTER.TV
+Antena3Internacional.es@SD,Antena3Internacional.es@SD
+AtreseriesInternacional.es@SD,AtreseriesInternacional.es@SD
+Canal.Parlamento.es,Canal.Parlamento.es
+Parlamento de Andalucía,Parlamento de Andalucía
+Somos Cine,Somos Cine
+ES33000079W,Crimen
+La Revuelta,La Revuelta
+RTVE_Cocina.TV,RTVE_Cocina.TV
+ES33000036Q,Docs
+Los Conciertos de Radio 3,Los Conciertos de Radio 3
+Multicine atresplayer,Multicine atresplayer
+Comedia atresplayer,Comedia atresplayer
+El club de la comedia,El club de la comedia
+El Hormiguero,El Hormiguero
+Aquí no hay quién viva,Aquí no hay quién viva
+Clásicos atresplayer,Clásicos atresplayer
+Inquietos atresplayer,Inquietos atresplayer
+Flooxer,Flooxer
+AMC HD,AMC HD
+SyFy HD,SyFy HD
+LG 1 Film,LG 1 Film
+LG 1 Spotlight,LG 1 Spotlight
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,plex.tv.ARTFLIX.-.Películas.Clásicas.plex
+Todo Drama,Todo Drama
+Sony One Hits Comedia,Sony One Hits Comedia
+Sony One Hits Acción,Sony One Hits Acción
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia
+61373bb45168fe000773eecd,Pluto TV Cine Clásico
+60cc807324d60a0007708dc8,Pluto TV Cine de Autor
+645a309c5a0cd5000873f609,Pluto TV Catástrofes
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama
+655b5d865812e80008843bd1,Pluto TV Comedias Románticas
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción
+5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi
+65ce480a78df2200131c597b,Pluto TV Psycho
+5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers
+6267d4d1fb694f0007a6af0e,Pluto TV Horror
+66b0dfa1d512590008bfa7fd,Pluto TV Gore-Slasher
+65786888b228b7000843ad9a,Pluto TV Zombies
+68c188f73efb41cd97793105,Pluto TV Saw
+6385e82900ab2e000768a058,Pluto TV Western
+676e7b4a4bd636000819c6a7,Pluto TV SensaCine TV x Pluto
+Pelis Top (Rakuten TV),Pelis Top (Rakuten TV)
+Acción (Rakuten TV),Acción (Rakuten TV)
+Comedias (Rakuten TV),Comedias (Rakuten TV)
+Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV)
+Dramas (Rakuten TV),Dramas (Rakuten TV)
+sci-fi-rakuten-tv,sci-fi-rakuten-tv
+Thrillers (Rakuten TV),Thrillers (Rakuten TV)
+Crimen (Rakuten TV),Crimen (Rakuten TV)
+En Familia (Rakuten TV),En Familia (Rakuten TV)
+Cine Español (Rakuten TV),Cine Español (Rakuten TV)
+Trailers.es,Trailers.es
+MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV)
+dark-matter-es-new,dark-matter-es-new
+grjngo-es,grjngo-es
+cine-western-es,cine-western-es
+Runtime Cine y Series,Runtime Cine y Series
+Runtime Comedia,Runtime Comedia
+Runtime Romance,Runtime Romance
+RunTime Familia,RunTime Familia
+Runtime Acción,Runtime Acción
+Runtime Thriller-Terror,Runtime Thriller-Terror
+Runtime Crimen,Runtime Crimen
+RunTime Clásicos,RunTime Clásicos
+Sangre Fría,Sangre Fría
+filmco,filmco
+Cines Verdi TV,Cines Verdi TV
+Cine Feel Good,Cine Feel Good
+ESBC40000248,Action Movie Channel
+ESBD800001RJ,Cine Friki
+ES2800001G7,Planeta de Cine
+ES900002ZD,Todo Pasión
+ESBC2700002LO,Grjngo Películas Del Oeste
+ESBC2700003T8,Bigtime Películas Gratis
+ESBD230000143,FreeTV Clásico
+ESBC1700004PX,Samsung TV Trailers
+LG 1,LG 1
+Sony One Series Thriller,Sony One Series Thriller
+Sony One Series Comedia,Sony One Series Comedia
+Sony One Éxitos,Sony One Éxitos
+Sony One The Blacklist,Sony One The Blacklist
+5f1ac8f49205650007bc15f1,Pluto TV Series
+5f9853138d19af0007104a8d,Pluto TV Series Comedia
+65cf6ab58145cb0008129ca8,Pluto TV Series Criminales
+6834570d00b60028d2dfd5f8,Pluto TV Series Policiacas
+65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi
+67586a552fb8a100088f7703,Pluto TV Miniseries
+685a995b460ac82fa504342c,The Good Wife
+657868a7a620e30008fdbfeb,Embrujadas
+6245c03922d9d4000760d205,Melrose Place
+664c76520120f40008b81db9,Los vigilantes de la playa
+6745f0643a61d40008a61510,Rookie Blue
+6304f530440dc90007f514d3,Poirot-Miss Marple
+6578808014fbe400086e21bc,Medium
+683457aebbc703dfd45a89eb,Merlí
+65786b94cbd0d60008f7e4d9,Star Trek The Next Generation
+65787f2eb228b7000843fa5c,Star Trek Voyager
+60dafb9a0df1ba000758d37b,Pluto TV BBC Drama
+6806d570c178637410ae4962,Pluto TV Series de Otros Continentes
+mr-bean-live-action,mr-bean-live-action
+filmrise-sci-fi-es,filmrise-sci-fi-es
+platos-sucios,platos-sucios
+Runtime Series,Runtime Series
+ES2900001DQ,Samsung BBC Drama
+ESBA3300039ZX,FreeTV Estelar
+608035b8d8705f0007260287,Pluto TV Anime
+629a066860ef810008267b70,Detective Conan
+683457e5f59cc6a13212fce4,Lupin
+632c6df43d2bc5000751f621,Inazuma Eleven
+63eb96754e83e70008ab8941,Yu-Gi-Oh
+685a996c7c4f2ad40cb4f276,Dragon Ball
+680ba8c3a48b3ead0db701cc,Los Caballeros del Zodiaco
+680ba8992472a7200a183eb5,One Piece
+5ff4b9ccf938f8000779eb99,One Piece JP sub ES
+5ee92e72fb286e0007285fec,Naruto
+64c92fea3c3344000869e8a9,Naruto Shippuden
+656f37f257fe4a000884dfee,Boruto Naruto Next Generations
+65d916a2f7f0af0008b6540d,Hunter x Hunter
+626c2ed933a2890007e91422,Death Note
+66c790f780a0af0008583aa4,JoJo’s Bizarre Adventure
+64666345f3f5b1000882bfb4,Captain Tsubasa
+66b26665d512590008c507b7,Inuyasha
+Anime Visión,Anime Visión
+Anime Visión Classics,Anime Visión Classics
+AZTV,AZTV
+Locomotion,Locomotion
+Anime Onegai SCI-FI,Anime Onegai SCI-FI
+Anime Onegai Comedy,Anime Onegai Comedy
+Anime Onegai Drama,Anime Onegai Drama
+Anime Onegai Sports,Anime Onegai Sports
+Anime Onegai Action,Anime Onegai Action
+6880aa28164eb4890282e803,Pluto TV Toons
+609e7e423e9173000706a681,Pluto TV Toons Clásico
+5f1aab1d29b39600073e243f,Pluto TV Kids
+68751b006dce17bae3b694f0,RETRO KIDS de Pluto TV
+68751a3bfd6704e9d3cc7b3d,Pequeños aventureros de Pluto TV
+68751aab3484d607323b6d50,El mundo de los Gnomos de Pluto TV
+68751b556dce17bae3b6b98f,La vuelta al mundo de Willy Fog
+68779a09c691b3f0964127c6,Heidi
+687799f86255fd1c0c419c84,Marco
+67b4ade18344dd9333978a1f,La Abeja Maya
+63c69c87808b740007599fe1,Érase una vez
+68d27949793c71d988ca624c,Los Pitufos
+5f1aca0b4e448e00075e7c5e,Bob Esponja
+61373c865ed5810007173fbc,Avatar
+61373f1a12dd9f00077dcd6f,Las Tortugas Ninja
+628751bb7154a40007168843,South Park
+677d93afe650a700081e5f18,Popeye
+ESBD130000205,Pitufo TV
+ZAZ.TV,ZAZ.TV
+6578836cdfed030008ce5bdb,Sí quiero ese vestido
+604f8125c6669b00077f7699,Wipeout
+5f1abf5fafb5ee0007d4d0ca,FailArmy
+5f28009b150b2500077766b8,Vaya semanita
+5f1abce155a03d0007718834,Pluto TV Comedia made in Spain
+612ce5214bb5790007ad3016,Pluto TV Paranormal
+654a35ce346f420008d5c36e,Pluto TV Invasión Alien
+6095ad97351eb0000754c1e6,Hells Kitchen
+Sony One Shark Tank,Sony One Shark Tank
+el-pais,el-pais
+ES300034BT,Actualidad 360
+CNN en Español,CNN en Español
+Euronews.es,Euronews.es
+CanalSur Más Noticias 24H,CanalSur Más Noticias 24H
+Andalucía Cocina,Andalucía Cocina
+tastemade-sp,tastemade-sp
+5f1acdaa8ba90f0007d5e760,Pluto TV Cocina
+6894fc3f66f164e402f4fd14,Dulce by elGourmet
+6894febddbd49c964f3b66c8,Plato del Dia by elGourmet
+gusto-tv-new,gusto-tv-new
+a-bocados,a-bocados
+NEW KFOOD,NEW KFOOD
+61cd7b49543066000713b620,Pluto TV Historia
+622f42b831233300078658cc,Ciudadanos por el mundo
+NatureTime,NatureTime
+1-1-travel,1-1-travel
+travelxp-es,travelxp-es
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV)
+crimenes-reales,crimenes-reales
+a-haunting-spa,a-haunting-spa
+Historia y Vida,Historia y Vida
+ESBD1400003QN,Royalworld - Nobleza y Dinastias
+ES3200001F1,BBC Earth
+Love the Planet,Love the Planet
+Inglés Total,Inglés Total
+Nesting.TV.es,Nesting.TV.es
+ES33000025N,Crimen y Historia
+ES300033TI,Viajes y Sabores
+plex.tv.Buen.Viaje.plex,plex.tv.Buen.Viaje.plex
+plex.tv.Mi.Casa.plex,plex.tv.Mi.Casa.plex
+plex.tv.Naturaleza.plex,plex.tv.Naturaleza.plex
+billiards-tv,billiards-tv
+67164414e40c4a00087f450d,MODUS Super Series Darts
+67921b873de7c8cf94233f52,UFC
+6675bb562916d97ce3c66d67,TNA Wrestling Channel
+687a783e928ee2ca866b7faa,Tennis TV Classics
+ESBC1700002IM,Televisión Consciente
+Tennis Channel,Tennis Channel
+ES20000065W,Tennis+
+Mundo Náutica,Mundo Náutica
+ActivaTV.es@SD,ActivaTV.es@SD
+European Indie Music Network,European Indie Music Network
+HIT TV,HIT TV
+La Urban TV,La Urban TV
+Sol Música,Sol Música España
+6076cd1df8576d0007c82193,VH1 Classics
+60a26a056d55b30007918d5a,MTV Music Made in Spain
+65786d29dfed030008ce2fa7,MTV Rock
+61ea759737679900078ff559,MTV Party Music
+6686796619311200085310a0,MTV Flow Latino
+66a11a21a79dea0008aa90ca,MTV Classic
+6047fabfce6e8e00070bcc9f,MTV Biggest Pop
+67b4a4e41a5ca7608025da79,MTV on Tour!
+5f85ca40eda1b10007b967cd,Conciertos por Stingray
+5f85cf621d6d2200079f1de0,Stingray Karaoke
+stingray-greatest-hits,stingray-greatest-hits
+stingray-hit-list,stingray-hit-list
+stingray-remember-the-80-s,stingray-remember-the-80-s
+qello-concerts-by-stingray,qello-concerts-by-stingray
+now-70s,now-70s
+now-80s,now-80s
+now-90s00s,now-90s00s
+now-rock,now-rock
+metal-rocks,metal-rocks
+qwest-tv,qwest-tv
+ESBC2100002LV,Vevo Latino
+ESBD230000289,Vevo Retro
+ESBC2100001IU,Vevo Pop
+ESBA1500001C4,Deluxe Lounge HD
+ES2500001F9,Cool Summer Channel
+ES32000027M,CLIPS dont lie
+TRACE Latina,TRACE Latina
+TRACE Urban,TRACE Urban
+plex.tv.TRACE.Brazuca.plex,plex.tv.TRACE.Brazuca.plex
+plex.tv.TRACE.UK.plex,plex.tv.TRACE.UK.plex
+plex.tv.Classic.Rock.plex,plex.tv.Classic.Rock.plex
+plex.tv.Pop.Adult.plex,plex.tv.Pop.Adult.plex
+plex.tv.Hip-Hop/R&amp;B.plex,plex.tv.Hip-Hop/R&amp;B.plex
+plex.tv.Stingray.Karaoke.plex,plex.tv.Stingray.Karaoke.plex
+plex.tv.Soul.Storm.plex,plex.tv.Soul.Storm.plex
+plex.tv.Hot.Country.plex,plex.tv.Hot.Country.plex
+plex.tv.Éxitos.del.Momento.plex,plex.tv.Éxitos.del.Momento.plex
+plex.tv.Qwest.TV.plex,plex.tv.Qwest.TV.plex
+plex.tv.FreeTV.Banda.plex,plex.tv.FreeTV.Banda.plex
+plex.tv.Stingray.DJAZZ.plex,plex.tv.Stingray.DJAZZ.plex
+plex.tv.Stingray.Classica.Stream.plex,plex.tv.Stingray.Classica.Stream.plex
+NatureVision,NatureVision
+stingray-naturescape,stingray-naturescape
+ZenLIFE.es,ZenLIFE.es
+ES2200001SF,Fireplace Vibes
