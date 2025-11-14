@@ -1,4 +1,5 @@
 # Fuente: https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz
+5f984b18dfe75800070e8645,Pluto TV Cine Navideño,https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png
 663a440c8ea5560008a4db8a,Gaming Central: League of Legends,https://images.pluto.tv/channels/663a440c8ea5560008a4db8a/colorLogoPNG_1747990943632.png
 6618e22624e1d000087a111c,Gaming Central: Shooters,https://images.pluto.tv/channels/6618e22624e1d000087a111c/colorLogoPNG_1747991043995.png
 66448a5a8ce31100086ae45e,Ubeat lite,https://images.pluto.tv/channels/66448a5a8ce31100086ae45e/colorLogoPNG_1747991179448.png
@@ -138,7 +139,6 @@
 6076cd1df8576d0007c82193,VH1 Classics,https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png
 65786d29dfed030008ce2fa7,MTV Rock,https://images.pluto.tv/channels/65786d29dfed030008ce2fa7/colorLogoPNG.png
 60a26a056d55b30007918d5a,MTV Music Made in Spain,https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png
-6686796619311200085310a0,MTV Flow Latino,https://images.pluto.tv/channels/6686796619311200085310a0/colorLogoPNG.png
 61ea759737679900078ff559,MTV Party Music,https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png
 65787eab32c1b300089a84d7,MTV Reggaeton,https://images.pluto.tv/channels/65787eab32c1b300089a84d7/colorLogoPNG.png
 5f1ab3c7778230000735cf41,MTV Catfish TV Show,https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png
