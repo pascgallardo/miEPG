@@ -267,6 +267,7 @@ qwest-tv,qwest-tv
 ESBC2100002LV,Vevo Latino
 ESBD230000289,Vevo Retro
 ESBC2100001IU,Vevo Pop
+ES35000016A,Vevo Navidad
 ESBA1500001C4,Deluxe Lounge HD
 ES2500001F9,Cool Summer Channel
 ES32000027M,CLIPS dont lie
