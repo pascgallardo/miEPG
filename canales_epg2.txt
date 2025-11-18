@@ -173,6 +173,7 @@ Cine Friki,Cine Friki,https://media.tvup.cloud/canales/color_lg_641098c475965f00
 Todo Novelas,Todo Novelas,https://media.tvup.cloud/canales/color_lg_64109b6bc2b2b100249a9350.png
 13 cultura,13 cultura,https://media.tvup.cloud/canales/color_lg_64141626beec3e001c3f0894.png
 Runtime Familia,Runtime Familia,https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d.png
+El País | Canal destacado en el dial 11,El País | Canal destacado en el dial 11,https://media.tvup.cloud/canales/color_lg_643d2785f5716200225c35bf.png
 Trace Urban,Trace Urban,https://media.tvup.cloud/canales/color_lg_6458ca8827684c477680a0d9.png
 Trace Latina,Trace Latina,https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png
 Trace Brasil,Trace Brasil,https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png
@@ -204,6 +205,7 @@ NOW 70s,NOW 70s,https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd948e73d3
 NOW 80's,NOW 80's,https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2.png
 NOW Rock,NOW Rock,https://media.tvup.cloud/canales/color_lg_654b5f2e77b3a0f30b1c97e3.png
 La Liga Inside,La Liga Inside,https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png
+SOL Música | Canal destacado en el dial 12,SOL Música | Canal destacado en el dial 12,https://media.tvup.cloud/canales/color_lg_6551dcecdac2cf26efe61554.png
 X-MO,X-MO,https://media.tvup.cloud/canales/color_lg_65532f3d873e1c5d50ed3a86.png
 Satén | Titanes,Satén | Titanes,https://media.tvup.cloud/canales/color_lg_6572ec3b0e7011f3744385ca.png
 Satén | Luxury,Satén | Luxury,https://media.tvup.cloud/canales/color_lg_6572ecbfa139960d20306c6e.png
@@ -274,6 +276,7 @@ Qwest TV,Qwest TV,https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d55
 1+1 Travel,1+1 Travel,https://media.tvup.cloud/canales/color_lg_67b45f2312c340d44a9a3f59.png
 1+1 News,1+1 News,https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090.png
 Xataka,Xataka,https://media.tvup.cloud/canales/color_lg_67c584618b9d411d8723a609.png
+BBC Series | Canal destacado en el dial 10,BBC Series | Canal destacado en el dial 10,https://media.tvup.cloud/canales/color_lg_67ce9ced79bd3c9b51c26f7e.png
 Águila Roja,Águila Roja,https://media.tvup.cloud/canales/color_lg_67cec24e79bd3c9b51c27afa.png
 Daystar,Daystar,https://media.tvup.cloud/canales/color_lg_67dc515bd0b0cf2397ebee56.png
 Yu-Gi-Oh!,Yu-Gi-Oh!,https://media.tvup.cloud/canales/color_lg_67e67ee2c3fb97fb7204d759.png
