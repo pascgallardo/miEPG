@@ -24,7 +24,7 @@
 6304f530440dc90007f514d3,Poirot &amp; Miss Marple,https://images.pluto.tv/channels/6304f530440dc90007f514d3/colorLogoPNG.png
 66d71f8ee5de930008016f83,Alice Nevers,https://images.pluto.tv/channels/66d71f8ee5de930008016f83/colorLogoPNG_1730816120590.png
 61bb2814ac085a00074309a6,Unidad de investigación,https://images.pluto.tv/channels/61bb2814ac085a00074309a6/colorLogoPNG.png
-5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1761930969522.png
+5f984f4a09e92d0007d74647,Archivos Forenses,https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png
 5f1acbed25948a0007ffbe65,Los archivos del FBI,https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png
 5f1acba0d1f6340007db8843,Los nuevos detectives,https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png
 60ed5fb9c4716d0007d180c5,Cazador de Homicidas,https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png
@@ -43,7 +43,6 @@
 66448a5a8ce31100086ae45e,Ubeat lite,https://images.pluto.tv/channels/66448a5a8ce31100086ae45e/colorLogoPNG_1747991179448.png
 60e45687313c5f0007bc8e94,El encantador de perros,https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png
 60e4573c9f963e00077ecf25,Mi Extraña Obsesión,https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png
-65c347ae3a116800078c93c5,Monster Jam,https://images.pluto.tv/channels/65c347ae3a116800078c93c5/colorLogoPNG.png
 68345769bbc703dfd45a8564,Pluto TV Tuning &amp; Tattoos,https://images.pluto.tv/channels/68345769bbc703dfd45a8564/colorLogoPNG_1752221864078.png
 6080345ebb49b90007ce0baf,Pluto TV Motor,https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png
 65bd0f53dc10a40008e68b96,Pluto TV Gasolina,https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/colorLogoPNG_1747382175081.png

@@ -1,0 +1,3 @@
+# Fuente: https://epgshare01.online/epgshare01/locomotiontv.xml.gz
+Locomotion,Locomotion,http://locomotiontv.com/locomotion/logo.png
+AZTV,AZTV,http://locomotiontv.com/locomotion/aztv_logo.png

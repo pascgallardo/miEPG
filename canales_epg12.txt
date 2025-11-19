@@ -1,5 +1,4 @@
 # Fuente: https://helmerluzo.github.io/FreeLiveSportsTV_HL/epg/FreeLiveSportsTV.xml.gz
-67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
 6675bddf08ff831167bd410d,World Poker Tour,https://media.unreel.me/prod/sportsplus/logo/c4779d42-4a0d-4a4d-a455-df67f3151d8f
 68b5f68ecce9c4384b9c1dc4,Unbeaten (Worldwide),https://media.unreel.me/prod/freelivesports/logo/09fa93ff-a539-4d81-bbbf-da599e11e77c
 6675bc9450bec7ad1dd144e8,Court Sports Network,https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9
@@ -56,6 +55,7 @@
 6675bbd47620a64769e3aaa7,World of Freesports,https://media.unreel.me/prod/sportsplus/logo/ef4c576d-49fb-4997-afe1-55f0b11d7982
 6793f38b28cc86e5b548fd1c,Adventure Zone Sports Network,https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87
 6849b955d58379ecd0a5371e,DFB Play,https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8
+67f41e06811b7e0fb25171d1,Harlem Globetrotters,https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783
 67b79781eab92d6624ee0a33,European Football League,https://media.unreel.me/prod/freelivesports/logo/deed3084-1593-4ad5-a398-d3ff653fcd51
 67d9e85646fbdd154c733552,Cricket Gold,https://media.unreel.me/prod/freelivesports/logo/81162d22-43a3-4ce4-a50f-76ecf4b14fba
 67daf9a75b812f089f86b42e,K-Baseball TV (KBO),https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62
