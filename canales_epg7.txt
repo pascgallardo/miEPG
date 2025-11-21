@@ -1,4 +1,5 @@
 # Fuente: https://helmerluzo.github.io/PlutoTV_HL/epg/es.xml.gz
+68de3db35fc0afe85de0b843,Comedia a lo bestia de Pluto TV,https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png
 5f984b18dfe75800070e8645,Pluto TV Cine Navideño,https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png
 5f984fdc470d460007a67094,MTV Hits Navidad,https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png
 69148c470155f9b136b5d856,Pluto TV Snooker 900,https://images.pluto.tv/channels/69148c470155f9b136b5d856/colorLogoPNG_1763054842514.png
