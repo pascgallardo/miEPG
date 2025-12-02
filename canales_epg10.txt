@@ -1,5 +1,5 @@
 # Fuente: https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz
-runtime-familia-1,Runtime Familia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_christmas_16x9_0.jpg
+runtime-christmas,Runtime Christmas,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_christmas_16x9_0.jpg
 /esruntime-accion,Runtime Acción,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_accion_16x9.jpg
 /esruntime-comedia,Runtime Comedia,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_comedia_16x9.jpg
 /esruntime-series,Runtime Series ,https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_series_16x9_0.jpg
