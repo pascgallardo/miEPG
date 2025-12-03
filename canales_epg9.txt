@@ -16,6 +16,7 @@ feel-good-tv,Feel Good TV,https://images-1.rakuten.tv/storage/global-live-channe
 grjngo-es,Grjngo,https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/adf6b2f1-7802-449a-a5ea-627a68bfb0c7.jpeg
 cine-western-es,Cine Western,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/9d7e65e4-f350-4db2-80ec-461d1ed8371a.jpeg
 crime-rakuten-tv,Crimen,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/726cbff5-c46e-48ec-b025-8ac30e53f370.jpeg
+alarm-for-cobra-rakuten-tv,Alerta Cobra - Brigada especial de carreteras,https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/88e3e3ac-d820-4fc4-a62a-44896724aac4.jpeg
 aguila-roja-rakuten-tv,Águila Roja,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0f724508-ed27-486a-849c-b3c6e9a05e00.jpeg
 filmrise-sci-fi-es,FilmRise Sci-Fi,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/daba160d-25f2-4f06-9572-fc2a71dcf277-filmrise-sci-fi-1631546650.jpeg
 stormcast-novelas-spa,Stormcast Novelas,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/15ffb483-6ae2-46f1-9d08-a6e3a8445ee9.jpeg
