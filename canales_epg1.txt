@@ -312,9 +312,9 @@ TV3 Catalunya,TV3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_d
 SX3 Catalunya,SX3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png
 El 33 Catalunya,El 33 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%2033%20Catalunya.png
 Esport3 Catalunya,Esport3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20Catalunya.png
-TV3CAT Catalunya,TV3CAT Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
-Bon Dia TV,Bon Dia TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bon%20Dia%20TV.png
-El Hormiguero,El Hormiguero,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png
+TV3CAT Catalunya,TV3CAT Catalunya,
+Bon Dia TV,Bon Dia TV,
+El Hormiguero,El Hormiguero,
 El club de la comedia,El club de la comedia,
 Equipo de investigación,Equipo de investigación,
 Aquí no hay quién viva,Aquí no hay quién viva,
