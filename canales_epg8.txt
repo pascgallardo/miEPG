@@ -57,7 +57,7 @@
 6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1762186724373.png
 5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
 64510d3ad3fdde00080951f2,MTV Drag,https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
-5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1762277053537.png
+5fab088b3279760007d4e4fd,MTV Pluto TV,https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png
 5de91b7ea86ee60009d89e75,MTV Reality,https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png
 6851b909954170e0128bc71d,MTV Dating,https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1750686878183.png
 61a52615cbef2500072876e2,Acapulco Shore Pluto TV,https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png

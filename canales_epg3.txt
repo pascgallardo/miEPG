@@ -126,10 +126,10 @@ Hollywood.es,Hollywood,https://programacion-tv.elpais.com/imagenes/canales/61.jp
 Iberalia.es,Iberalia,https://programacion-tv.elpais.com/imagenes/canales/654.jpg
 Imas.TV.es,Imas TV,https://imastv.es/wp-content/uploads/2024/05/cropped-mosca-pequena.png
 LALIGA.Inside.es,LALIGA Inside,
-LALIGA.TV.2.HYPERMOTION.es,LALIGA TV 2 HYPERMOTION,
-LALIGA.TV.3.HYPERMOTION.es,LALIGA TV 3 HYPERMOTION,
 LALIGA.TV.BAR.es,LALIGA TV BAR,https://e01-elmundo.uecdn.es/television/programacion-tv/img/v2/canales/00/10000896.png
-LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,
+LALIGA.TV.HYPERMOTION.2.es,LALIGA TV HYPERMOTION 2,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs2.png
+LALIGA.TV.HYPERMOTION.3.es,LALIGA TV HYPERMOTION 3,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs3.png
+LALIGA.TV.HYPERMOTION.es,LALIGA TV HYPERMOTION,https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/mligs.png
 La.1.Catalunya.es,La 1 Catalunya,https://programacion-tv.elpais.com/imagenes/canales/18.jpg
 La.1.HD.es,La 1 HD,https://programacion-tv.elpais.com/imagenes/canales/690.jpg
 La.1.es,La 1,https://programacion-tv.elpais.com/imagenes/canales/3.jpg
